@@ -1,7 +1,7 @@
 NOME: filipe tavares
 NMEC: 139704
 
-1. touch A-139704.txt, code A-139704.txt
+
 
 @filipet46 ➜ /workspaces/LABINFO-03-26-27 (main) $ pwd
 /workspaces/LABINFO-03-26-27
@@ -85,8 +85,16 @@ git commit -m "Tarefa 6 cumprida "
     7  git push origin main
     8  history > meusComandosCodespace.txt
  --- Comandos do computador ---
+ cd
+ ls
+ cd labs
+    1. touch A-139704.txt, code A-139704.txt
+    code A-139704-notas.txt
+     git clone https://github.com/filipet46/LABINFO-03-26-27.git
+     ls
+     cd  LABINFO-03-26-27
+     code .
 
-    80  git push origin main
    81  git branch
    82  ls
    83  git add .
