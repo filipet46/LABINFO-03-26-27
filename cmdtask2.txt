@@ -1,0 +1,17 @@
+    1  pwd
+    2  git add .
+    3  git commit -m"adiciona o ficheiro de identificação"
+    4  git push -u origin main
+    5  mkdir A139704
+    6  cd A139704
+    7  touch README.md
+    8  cd
+    9  cd..
+   10  cd ..
+   11  cd LABINFO-03-26-27
+   12  cd /workspaces/LABINFO-03-26-27
+   13  pwd
+   14  cd A139704
+   15  pwd
+   16  cd ..
+   17  history > cmdtask2.txt
