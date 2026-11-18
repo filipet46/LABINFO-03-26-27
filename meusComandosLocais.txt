@@ -1,0 +1,10 @@
+ 
+   80  git push origin main
+   81  git branch
+   82  ls
+   83  git add .
+   84  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicia"
+   85  git push
+   86  cp index.html disciplina.html
+   87  ls
+   88  history > meusComandosLocais.txt
