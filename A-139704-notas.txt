@@ -1,0 +1,97 @@
+NOME: filipe tavares
+NMEC: 139704
+
+1. touch A-139704.txt, code A-139704.txt
+
+@filipet46 ➜ /workspaces/LABINFO-03-26-27 (main) $ pwd
+/workspaces/LABINFO-03-26-27
+
+Tarefa 1:
+git status
+git add .
+git commit -m"adiciona o ficheiro de identificação"
+git push -u origin main
+Tarefa 2:~
+mkdir A139704
+cd A139704
+pwd
+ touch README.md
+ cd ..
+ pwd
+ history > cmdtask2.txt
+ git add cmdtask2.txt A139704/README.md
+
+ git push
+
+ tarefa 3:
+ cd
+ cd labs
+ git clone https://github.com/filipet46/LABINFO-03-26-27.git
+ cd  LABINFO-03-26-27
+ code .
+ git add index.html
+ git commit -m "3.ª tarefa concluída"
+ git push origin main
+
+ tarefa 4:
+ git add .
+ git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicia"
+ git push
+
+ tarefa 5:
+ git pull origin main
+ cp index.html disciplina.html
+ ls
+
+ git add disciplina.html
+ git commit -m "Cria disciplina.html a partir de index.html"
+ git push origin main
+ parte b>
+ git pull origin main
+
+tarefa 6
+history > meusComandosLocais.txt
+
+git add .
+git commit -m "Tarefa 6 cumprida "
+ === Comandos do Codespace ===
+    1  pwd
+    2  git add .
+    3  git commit -m"adiciona o ficheiro de identificação"
+    4  git push -u origin main
+    5  mkdir A139704
+    6  cd A139704
+    7  touch README.md
+    8  cd
+    9  cd..
+   10  cd ..
+   11  cd LABINFO-03-26-27
+   12  cd /workspaces/LABINFO-03-26-27
+   13  pwd
+   14  cd A139704
+   15  pwd
+   16  cd ..
+   17  history > cmdtask2.txt
+
+
+
+
+    1  git status
+    2  git pull origin main
+    3  cp index.html disciplina.html
+    4  ls
+    5  git add disciplina.html
+    6  git commit -m "Cria disciplina.html a partir de index.html"
+    7  git push origin main
+    8  history > meusComandosCodespace.txt
+ --- Comandos do computador ---
+
+    80  git push origin main
+   81  git branch
+   82  ls
+   83  git add .
+   84  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicia"
+   85  git push
+   86  cp index.html disciplina.html
+   87  ls
+   88  history > meusComandosLocais.txt
